@@ -1,0 +1,4 @@
+name = "Chanterelle"
+uuid = "5f8c52ff-7408-4650-aa37-c9e9170cc2d8"
+authors = ["Steffen Haug <st@haug.codes>"]
+version = "0.1.0"
