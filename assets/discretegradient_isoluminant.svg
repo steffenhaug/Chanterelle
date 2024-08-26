@@ -2,13 +2,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
-     width="150mm" height="25mm"
-     viewBox="0 0 6 1" preserveAspectRatio="none"
+     width="125mm" height="25mm"
+     viewBox="0 0 5 1" preserveAspectRatio="none"
      shape-rendering="crispEdges" stroke="none">
-<rect width="1" height="1" x="0" y="0" fill="#8AA8A1" />
-<rect width="1" height="1" x="1" y="0" fill="#85B29A" />
-<rect width="1" height="1" x="2" y="0" fill="#8CB98B" />
-<rect width="1" height="1" x="3" y="0" fill="#A0BE77" />
-<rect width="1" height="1" x="4" y="0" fill="#BDBF62" />
-<rect width="1" height="1" x="5" y="0" fill="#E0BD52" />
+<rect width="1" height="1" x="0" y="0" fill="#4E8168" />
+<rect width="1" height="1" x="1" y="0" fill="#6E9869" />
+<rect width="1" height="1" x="2" y="0" fill="#97AC69" />
+<rect width="1" height="1" x="3" y="0" fill="#C9BE6B" />
+<rect width="1" height="1" x="4" y="0" fill="#FFCC76" />
 </svg>
